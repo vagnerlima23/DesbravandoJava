@@ -15,6 +15,7 @@ public class CalculadoraDeEstoque {
 		}else {
 			System.out.println("Seu estoque está bom");
 		}
+		System.out.println("QUE LEGAL CARA ");
 		
 	}
 
